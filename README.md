@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahadi Hasan Sumon
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ()
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate ()
 - 📫 email: mahadihasansumon73@gmail.com
 
