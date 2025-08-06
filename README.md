@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahadi Hasan Sumon
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate ()
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate...
 - 📫 email: mahadihasansumon73@gmail.com
 
 <!---
